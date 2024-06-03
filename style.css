@@ -1,6 +1,7 @@
 * {
   font-family: monospace;
   background-color: #e7b27b;
+  box-sizing: border-box;
 }
 
 .home-links-title,
