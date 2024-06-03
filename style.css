@@ -1,7 +1,9 @@
 * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   font-family: monospace;
   background-color: #e7b27b;
-  box-sizing: border-box;
 }
 
 .home-links-title,
