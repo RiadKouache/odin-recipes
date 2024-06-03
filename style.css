@@ -1,0 +1,18 @@
+* {
+  font-family: monospace;
+  background-color: #e7b27b;
+}
+
+.home-links-title {
+  font-weight: 900;
+  font-size: 64px;
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
+a {
+  font-size: 32px;
+  color: #4a3308;
+}
