@@ -6,11 +6,20 @@
   background-color: #e7b27b;
 }
 
+.odin-recipes {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 100px auto;
+}
+
 .home-links-title,
 .home-title {
   font-weight: 900;
   font-size: 64px;
   text-align: center;
+  border: rgb(147, 89, 13) solid 6px;
+  padding: 12px;
 }
 
 .secondaries-titles {
@@ -18,9 +27,13 @@
   font-size: 32px;
 }
 
-div {
+.home-links {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 }
+
 a {
   font-size: 32px;
   color: #4a3308;
