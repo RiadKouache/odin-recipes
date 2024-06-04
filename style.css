@@ -39,16 +39,26 @@ a {
   color: #4a3308;
 }
 
+/* The recipe page */
+
+.recipe {
+  display: flex;
+  justify-content: center;
+  margin: 50px auto;
+}
+
 .recipe-img {
-  height: 300px;
-  width: 600px;
+  display: flex;
+  justify-content: center;
 }
 
 p {
   font-size: 24px;
   text-align: center;
+  padding: 100px;
 }
 
 .list {
   font-size: 16px;
+  padding: 32px;
 }
